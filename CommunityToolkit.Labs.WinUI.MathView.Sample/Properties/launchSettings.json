@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CommunityToolkit.Labs.WinUI.MathView.Sample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CommunityToolkit.Labs.WinUI.MathView.Sample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
